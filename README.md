@@ -60,13 +60,6 @@ research_ai/
 ├── LICENSE
 ├── .gitignore
 └── .env.example
-⚙️ Installation
-1. Clone the Repository
-git clone https://github.com/NaveenVSuperneuraX/AI-System-to-Automatically-Review-and-Summarize-Research-Papers.git
-
-
-cd AI-System-to-Automatically-Review-and-Summarize-Research-Papers
-2. Create Virtual Environment
 
 Windows:
 
@@ -85,8 +78,6 @@ Create a .env file in the project root:
 
 GEMINI_API_KEY=your_gemini_api_key_here
 SEMANTIC_SCHOLAR_API_KEY=your_semantic_scholar_api_key_here
-
-⚠️ Never upload your actual .env file or API keys to GitHub.
 
 Use .env.example as the configuration template.
 
