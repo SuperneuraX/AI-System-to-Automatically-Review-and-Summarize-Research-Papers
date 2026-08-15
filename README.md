@@ -108,28 +108,6 @@ Discussion
 Conclusion
 APA References
 Downloadable PDF Report
-🎯 Use Cases
-🎓 College and academic projects
-🔬 Research assistance
-📚 Literature reviews
-📝 Thesis preparation
-📖 Research surveys
-📑 Systematic literature reviews
-🧑‍🏫 Academic research
-🚀 Future Enhancements
-☁️ Cloud deployment
-📊 Research analytics dashboard
-🔎 Advanced paper ranking
-📚 Integration with additional academic databases
-🧠 Multi-model AI support
-📈 Research trend visualization
-🔗 Automatic DOI extraction
-👥 Collaborative research workspace
-📱 Mobile application
-👨‍💻 Developer
-
-Naveen V
-B.Tech – Artificial Intelligence & Data Science
 
 This project was developed by Naveen V under the guidance of the project mentor, springboardmentor3847a-cloud, as part of the project work.
 
